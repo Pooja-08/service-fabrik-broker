@@ -7,10 +7,9 @@ require (
 	github.com/Masterminds/sprig/v3 v3.1.0
 	github.com/go-logr/logr v0.1.0
 	github.com/golang/mock v1.4.4
-	github.com/google/go-cmp v0.4.1 // indirect
 	github.com/onsi/ginkgo v1.14.2
 	github.com/onsi/gomega v1.10.3
-	github.com/prometheus/client_golang v1.8.0
+	github.com/prometheus/client_golang v1.12.2
 	helm.sh/helm/v3 v3.3.4
 	k8s.io/api v0.18.8
 	k8s.io/apiextensions-apiserver v0.18.8
